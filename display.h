@@ -7,9 +7,11 @@ using namespace std;
 class display
 {
 
-public:
-    int karakters;
-    void printkarakters();
+	public:
+		display(int karakters);
+
+		int karakters;
+		void printkarakters();
 };
 
 #endif // DISPLAY

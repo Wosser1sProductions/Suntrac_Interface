@@ -1,0 +1,648 @@
+<MidiCommands Author="dylan" Version="2.0" IndexNetworkDevice="-1">
+  <Preset SendEasyRemote="1" ID="0" File="SunTraC Trigger Wing.csl2" Name="" FileFromFolderType="0" />
+  <Commands ID="0" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="1" ButIgnorZeroValue="0">
+    <MIDI command="96" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="1" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="1" ButIgnorZeroValue="0">
+    <MIDI command="97" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="2" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="98" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="3" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="99" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="4" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="100" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="5" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="101" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="7" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="1" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="8" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="2" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="9" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="3" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="10" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="4" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="11" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="5" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="12" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="0" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="13" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="7" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="14" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="8" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="15" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="1" ButIgnorZeroValue="0">
+    <MIDI command="9" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="16" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="10" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="17" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="11" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="18" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="6" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="19" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="13" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="20" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="14" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="21" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="15" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="22" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="16" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="23" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="17" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="24" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="12" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="25" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="19" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="26" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="20" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="27" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="21" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="28" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="22" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="29" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="23" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="30" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="18" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="31" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="0" channel="0" status="11" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="32" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="1" channel="0" status="11" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="34" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="53" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="35" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="52" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="36" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="51" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="37" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="50" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="38" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="49" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="39" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="48" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="40" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="59" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="41" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="58" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="42" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="57" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="43" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="56" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="44" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="55" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="45" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="54" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="50" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="61" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="51" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="60" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="57" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="66" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="58" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="108" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+    <Command Name="CIC_BUTTON_CATIVATE" SendToCtrl="1" MACType="1" Min="127" Max="255" MOOTrue="2" MOOFalse="3" MSPCOSC="2" MInvert="0" MIncrease="0" ResIncrease="1" Page="_MASTER" Button="kleur #rood" FlashMode="0" DoSelect="0" />
+  </Commands>
+  <Commands ID="59" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="1" ButIgnorZeroValue="0">
+    <MIDI command="109" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+    <Command Name="CIC_FIXTURE_SEL_GROUP" SendToCtrl="1" MACType="1" Min="127" Max="255" MOOTrue="2" MOOFalse="0" MSPCOSC="0" MInvert="0" MIncrease="0" ResIncrease="1" WorkSelectedPage="1" Group="Robe" />
+  </Commands>
+  <Commands ID="60" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="110" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="61" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="111" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="62" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="112" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="63" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="113" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="64" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="5" channel="0" status="11" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="65" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="4" channel="0" status="11" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="67" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="29" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="68" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="1" ButIgnorZeroValue="0">
+    <MIDI command="28" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="69" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="27" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="70" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="26" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="71" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="25" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="72" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="24" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="73" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="1" ButIgnorZeroValue="0">
+    <MIDI command="35" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+    <Command Name="CIC_FIXTURE_SEL_GROUP" SendToCtrl="1" MACType="1" Min="127" Max="255" MOOTrue="2" MOOFalse="0" MSPCOSC="0" MInvert="0" MIncrease="0" ResIncrease="1" WorkSelectedPage="1" Group="WL" />
+  </Commands>
+  <Commands ID="74" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="126" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="75" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="33" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="76" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="32" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="77" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="31" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="78" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="30" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="79" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="41" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="80" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="40" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="81" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="39" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="82" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="38" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="83" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="37" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="84" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="36" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="85" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="47" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="86" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="1" ButIgnorZeroValue="0">
+    <MIDI command="46" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+    <Command Name="CIC_FIXTURE_SEL_GROUP" SendToCtrl="1" MACType="1" Min="127" Max="255" MOOTrue="2" MOOFalse="0" MSPCOSC="0" MInvert="0" MIncrease="0" ResIncrease="1" WorkSelectedPage="1" Group="SL" />
+  </Commands>
+  <Commands ID="87" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="45" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="88" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="44" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="89" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="43" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="90" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="42" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="91" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="102" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="92" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="103" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="93" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="104" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="94" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="105" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="95" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="1" ButIgnorZeroValue="0">
+    <MIDI command="106" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="96" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="107" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="97" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="1" ButIgnorZeroValue="0">
+    <MIDI command="2" channel="0" status="11" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+    <Command Name="CIC_FIXTURE_CLEAR_LIVE" SendToCtrl="1" MACType="1" Min="127" Max="255" MOOTrue="2" MOOFalse="0" MSPCOSC="0" MInvert="0" MIncrease="0" ResIncrease="1" />
+  </Commands>
+  <Commands ID="98" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="6" channel="0" status="11" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="99" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="1" ButIgnorZeroValue="0">
+    <MIDI command="114" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+    <Command Name="CIC_FIXTURE_RECORD_LIVE" SendToCtrl="1" MACType="1" Min="127" Max="255" MOOTrue="2" MOOFalse="0" MSPCOSC="2" MInvert="0" MIncrease="0" ResIncrease="1" />
+    <Command Name="CIC_PAGE_SET_CURRENT" SendToCtrl="1" MACType="1" Min="127" Max="255" MOOTrue="2" MOOFalse="3" MSPCOSC="2" MInvert="0" MIncrease="0" ResIncrease="1" Page="_MASTER" />
+    <Command Name="CIC_FIXTURE_UNSEL_ALL" SendToCtrl="1" MACType="1" Min="127" Max="255" MOOTrue="2" MOOFalse="0" MSPCOSC="0" MInvert="0" MIncrease="0" ResIncrease="1" />
+  </Commands>
+  <Commands ID="100" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="115" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="101" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="116" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="102" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="117" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="103" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="118" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="104" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="119" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="106" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="77" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="107" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="76" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="108" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="75" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="109" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="1" ButIgnorZeroValue="0">
+    <MIDI command="74" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="110" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="73" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="111" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="72" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="112" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="83" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="113" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="82" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="114" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="81" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="115" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="80" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="116" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="79" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="117" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="78" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="118" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="89" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="119" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="88" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="120" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="87" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="121" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="1" ButIgnorZeroValue="0">
+    <MIDI command="86" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="122" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="85" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="123" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="84" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="124" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="95" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="125" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="94" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="126" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="93" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="127" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="92" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="128" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="91" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="129" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="90" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="132" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="1" ButIgnorZeroValue="0">
+    <MIDI command="4" channel="1" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+    <Command Name="CIC_FIXTURE_UNSEL_ALL" SendToCtrl="1" MACType="1" Min="127" Max="255" MOOTrue="2" MOOFalse="0" MSPCOSC="0" MInvert="0" MIncrease="0" ResIncrease="1" />
+  </Commands>
+  <Commands ID="133" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="1" ButIgnorZeroValue="0">
+    <MIDI command="5" channel="1" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="134" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="1" ButIgnorZeroValue="0">
+    <MIDI command="6" channel="1" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="135" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="7" channel="1" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="136" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="8" channel="1" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="137" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="9" channel="1" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="138" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="20" channel="0" status="11" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="139" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="21" channel="0" status="11" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="140" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="23" channel="0" status="11" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="141" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="22" channel="0" status="11" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="142" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="25" channel="0" status="11" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="143" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="24" channel="0" status="11" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="144" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="26" channel="0" status="11" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="145" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="1" ButIgnorZeroValue="0">
+    <MIDI command="27" channel="0" status="11" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="146" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="28" channel="0" status="11" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="147" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="1" ButIgnorZeroValue="0">
+    <MIDI command="29" channel="0" status="11" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="148" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="1" ButIgnorZeroValue="0">
+    <MIDI command="30" channel="0" status="11" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="149" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="31" channel="0" status="11" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="150" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="8" channel="0" status="11" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="151" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="120" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="152" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="9" channel="0" status="11" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="153" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="1" ButIgnorZeroValue="0">
+    <MIDI command="121" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="154" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="10" channel="0" status="11" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="155" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="122" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="156" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="11" channel="0" status="11" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="157" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="123" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="158" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="12" channel="0" status="11" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="159" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="124" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="160" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="13" channel="0" status="11" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="161" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="125" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="162" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="14" channel="0" status="11" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+    <Command Name="CIC_BUTTON_DIMMER" SendToCtrl="1" MACType="0" Min="0" Max="255" MOOTrue="2" MOOFalse="3" MSPCOSC="0" MInvert="0" MIncrease="0" ResIncrease="100" Page="_MASTER" Button="kleur #rood" FlashMode="0" DoSelect="1" />
+  </Commands>
+  <Commands ID="163" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="15" channel="0" status="11" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="164" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="16" channel="0" status="11" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="165" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="17" channel="0" status="11" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="166" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="18" channel="0" status="11" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="167" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="19" channel="0" status="11" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="168" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="1" ButIgnorZeroValue="0">
+    <MIDI command="126" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+    <Command Name="CIC_GENERAL_SOUNDTOLIGHT_RESET" SendToCtrl="1" MACType="1" Min="127" Max="255" MOOTrue="2" MOOFalse="3" MSPCOSC="0" MInvert="0" MIncrease="0" ResIncrease="1" />
+  </Commands>
+  <Commands ID="169" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="1" ButIgnorZeroValue="0">
+    <MIDI command="127" channel="0" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="170" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="0" channel="1" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="171" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="1" channel="1" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="172" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="2" channel="1" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="173" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="3" channel="1" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="174" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="10" channel="1" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="175" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="11" channel="1" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="176" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="12" channel="1" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="177" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="13" channel="1" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="178" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="14" channel="1" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="179" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="15" channel="1" status="-2" FeedBack="1" FeedBackRecieved="1" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="180" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="1" ButIgnorZeroValue="0">
+    <MIDI command="34" channel="1" status="-2" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+    <Command Name="CIC_BUTTON_CATIVATE" SendToCtrl="1" MACType="1" Min="127" Max="255" MOOTrue="2" MOOFalse="3" MSPCOSC="2" MInvert="0" MIncrease="0" ResIncrease="1" Page="" Button="" FlashMode="0" DoSelect="0" />
+  </Commands>
+  <Commands ID="184" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="1" ButIgnorZeroValue="0">
+    <MIDI command="18" channel="1" status="-2" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="185" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="1" ButIgnorZeroValue="0">
+    <MIDI command="16" channel="1" status="-2" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="186" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="1" ButIgnorZeroValue="0">
+    <MIDI command="21" channel="1" status="-2" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="187" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="1" ButIgnorZeroValue="0">
+    <MIDI command="23" channel="1" status="-2" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="188" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="1" ButIgnorZeroValue="0">
+    <MIDI command="26" channel="1" status="-2" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="191" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="1" ButIgnorZeroValue="0">
+    <MIDI command="31" channel="1" status="-2" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="192" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="20" channel="1" status="-2" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="193" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="22" channel="1" status="-2" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="194" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="1" ButIgnorZeroValue="0">
+    <MIDI command="27" channel="1" status="-2" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="195" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="1" ButIgnorZeroValue="0">
+    <MIDI command="25" channel="1" status="-2" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="196" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="1" ButIgnorZeroValue="0">
+    <MIDI command="28" channel="1" status="-2" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="197" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="1" ButIgnorZeroValue="0">
+    <MIDI command="30" channel="1" status="-2" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="199" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="1" ButIgnorZeroValue="0">
+    <MIDI command="19" channel="1" status="-2" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="200" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="1" ButIgnorZeroValue="0">
+    <MIDI command="38" channel="1" status="-2" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="201" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="1" ButIgnorZeroValue="0">
+    <MIDI command="36" channel="1" status="-2" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="202" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="1" ButIgnorZeroValue="0">
+    <MIDI command="33" channel="1" status="-2" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="203" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="1" ButIgnorZeroValue="0">
+    <MIDI command="35" channel="1" status="-2" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="207" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="3" channel="0" status="11" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="208" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="0" channel="0" status="11" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="209" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="0" ButIgnorZeroValue="0">
+    <MIDI command="1" channel="0" status="11" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="210" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="1" ButIgnorZeroValue="0">
+    <MIDI command="105" channel="1" status="9" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="211" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="1" ButIgnorZeroValue="0">
+    <MIDI command="107" channel="1" status="9" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="212" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="1" ButIgnorZeroValue="0">
+    <MIDI command="109" channel="1" status="9" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="213" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="1" ButIgnorZeroValue="0">
+    <MIDI command="111" channel="1" status="9" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="214" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="1" ButIgnorZeroValue="0">
+    <MIDI command="97" channel="1" status="9" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="215" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="1" ButIgnorZeroValue="0">
+    <MIDI command="101" channel="1" status="9" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="216" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="1" ButIgnorZeroValue="0">
+    <MIDI command="99" channel="1" status="9" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="217" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="1" ButIgnorZeroValue="0">
+    <MIDI command="103" channel="1" status="9" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="218" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="1" ButIgnorZeroValue="0">
+    <MIDI command="104" channel="1" status="9" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="220" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="1" ButIgnorZeroValue="0">
+    <MIDI command="108" channel="1" status="9" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="222" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="1" ButIgnorZeroValue="0">
+    <MIDI command="96" channel="1" status="9" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="223" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="1" ButIgnorZeroValue="0">
+    <MIDI command="98" channel="1" status="9" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="224" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="1" ButIgnorZeroValue="0">
+    <MIDI command="100" channel="1" status="9" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="225" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="1" ButIgnorZeroValue="0">
+    <MIDI command="102" channel="1" status="9" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="226" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="1" ButIgnorZeroValue="0">
+    <MIDI command="120" channel="1" status="9" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="230" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="1" ButIgnorZeroValue="0">
+    <MIDI command="112" channel="1" status="9" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="231" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="1" ButIgnorZeroValue="0">
+    <MIDI command="114" channel="1" status="9" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="232" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="1" ButIgnorZeroValue="0">
+    <MIDI command="116" channel="1" status="9" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="233" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="1" ButIgnorZeroValue="0">
+    <MIDI command="118" channel="1" status="9" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="234" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="1" ButIgnorZeroValue="0">
+    <MIDI command="121" channel="1" status="9" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="235" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="1" ButIgnorZeroValue="0">
+    <MIDI command="123" channel="1" status="9" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="236" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="1" ButIgnorZeroValue="0">
+    <MIDI command="125" channel="1" status="9" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="238" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="1" ButIgnorZeroValue="0">
+    <MIDI command="113" channel="1" status="9" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="240" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="1" ButIgnorZeroValue="0">
+    <MIDI command="117" channel="1" status="9" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+  <Commands ID="241" Preset="0" DmxU="-1" Ch="-1" Info="" ButFugitif="1" ButIgnorZeroValue="0">
+    <MIDI command="119" channel="1" status="9" FeedBack="1" FeedBackRecieved="0" OnValue="-1" OffValue="-1" />
+  </Commands>
+</MidiCommands>

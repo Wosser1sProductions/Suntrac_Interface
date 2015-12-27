@@ -1,16 +1,20 @@
 #ifndef KNOP
 #define KNOP
+#include "display.h"
 #include <string>
+#include <list>
 
 using namespace std;
 
 class knop
 {
-    int ID;
-    string button;
-public:
-    knop(int ID);
-    knop(string button = "    ");
+	public:
+		knop(int ID);
+		knop(string button);
+
+		int ID						= -1;
+		string button				= "    ";
+		list<display*> *karakters	= nullptr;
 };
 
 #endif // KNOP
