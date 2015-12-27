@@ -15,28 +15,36 @@
 
 using namespace std;
 
-void string_to_ascii(string input)
+list<display*>* string_to_ascii(string input)
 {
-    list<display*> karakter;
-    char c = NULL;
-    int karakters;
+	list<display*> *karakter  = new list<display*>();
 
-    unsigned lengte = input.length();
 
-    for(int i = 0; i < lengte; i++)                                                 //voor de volledige lengte van de string char omzette naar int
-    {
-        c = input[i];
-        karakters = c;
+//    char c = NULL;
+//    int karakters;
 
-        karakter.push_back(new display(karakters));                                 //karakters appart opslaan
-    }
+//    unsigned lengte = input.length();
+
+//    for(int i = 0; i < lengte; i++)                                                 //voor de volledige lengte van de string char omzette naar int
+//    {
+//        c = input[i];
+//        karakters = c;
+
+//        karakter.push_back(new display(karakters));                                 //karakters appart opslaan
+//    }
+
+	for (char c : input) {
+		karakter->push_back(new display(c));
+	}
+
+	return karakter;
 }
 
-void xmlVerwerker (string path)
+list<knop*>* xmlVerwerker (string path)
 {
     int ID;
     string button;
-    list<knop*> knoppen;
+	list<knop*> *knoppen = new list<knop*>();
 
     QFile *xmlFile = new QFile (path.c_str());
 
@@ -45,54 +53,87 @@ void xmlVerwerker (string path)
         QMessageBox messageBox;
         QMessageBox::critical(nullptr,"Error", "kon MidiCommand.xml niet inlezen", QMessageBox::Ok);
         messageBox.setFixedSize(500,200);
+		exit(1);
     }
 
-    QXmlStreamReader *xml = new QXmlStreamReader(xmlFile);
-    while(!xml->atEnd())
-    {
-        while(!xml->readNextStartElement() );
+	QXmlStreamReader *xml = new QXmlStreamReader(xmlFile);
+
+	while(!xml->atEnd())
+	{
+		while(!xml->readNextStartElement()) {
+			break;
+		}
 
         if(xml->name() == "Commands")
         {
-            ID = xml->attributes().value("ID").toInt();
-            knoppen.push_back(new knop(ID));
-            continue;
-        }
+			if(xml->attributes().hasAttribute("ID")) {
+				ID = xml->attributes().value("ID").toInt();
+				knoppen->push_back(new knop(ID));
+			}
+		}
 
-        if(xml->name() == "Command")
-        {
-            if(xml->attributes().hasAttribute("Button"))                            //er is een button tekst
-            {                                                                       //leest de button tekst in achter #
-                button = xml->attributes().value("Button").split('#').at(1).toString().toStdString();
-                knoppen.push_back(new knop(button));
-            }
+		if(xml->name() == "Command")
+		{
+			if(xml->attributes().hasAttribute("Button"))                            //er is een button tekst
+			{                                                                       //leest de button tekst in achter #
+				//button = xml->attributes().value("Button").split('#').at(1).toString().toStdString();
 
-            else                                                                    //standaard waarde button tekst = "    "
-            {
-                continue;
-            }
+				QVector<QStringRef> splitted = xml->attributes().value("Button").split('#');
 
-           // cout << "ID: " << ID << "   Button tekst: " << button << endl;
-        }
+				if (splitted.size() > 1) {
+					button = splitted.at(1).toString().toStdString();
+					knoppen->back()->button = button;
+					//nieuw->button = button;
+				} else {
+					cerr << "WARNING: Command " << ID << "'s Button string has no '#' or nothing following it!" << endl;
+				}
+			}
 
-        //cout << xml->hasError() << xml->errorString().toStdString();
+			//cout << "ID: " << ID << "   Button tekst: " << button << endl;
+		}
+
+//		cout << xml->hasError() << xml->errorString().toStdString();
     }
 
-    list<knop*>::iterator it;
-    for(it = knoppen.begin(); it != knoppen.end(); ++it)
-    {
-        string_to_ascii(button);                                                    //tekst naar ascii omvormer sturen
-    }
+//    list<knop*>::iterator it;
+//    for(it = knoppen->begin(); it != knoppen->end(); ++it)
+//    {
+//        string_to_ascii(button);                                                    //tekst naar ascii omvormer sturen
+//    }
+
+	for (knop* k : *knoppen) {
+		k->karakters = string_to_ascii(k->button);
+	}
 
     delete xmlFile;
+
+	return knoppen;
+}
+
+void printKnoplijst(list<knop*> *lijst) {
+	for (knop* k : *lijst) {
+		printf("Button ID = %4d | tekst: %4s | ascii: ", k->ID, k->button.c_str());
+
+		for (display* d : *(k->karakters)) {
+			d->printkarakters();
+			cout << " ";
+		}
+
+		cout << endl;
+	}
 }
 
 int main()
 {
     string path;
 
-    cout <<"geef de locatie van het xml bestand" << endl;                           //de locatie van xml bestand
+	cout <<"Geef de locatie van het xml bestand:" << endl;                           //de locatie van xml bestand
     cin >> path;
 
-    xmlVerwerker(path);
+	list<knop*> *knoplijst = xmlVerwerker(path);
+
+	cout << endl << "Button List:" << endl;
+	printKnoplijst(knoplijst);
+
+	return 0;
 }

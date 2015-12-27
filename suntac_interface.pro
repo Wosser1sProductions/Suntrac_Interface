@@ -6,7 +6,7 @@ QT += widgets
 
 SOURCES += main.cpp \
     knop.cpp \
-    display1.cpp
+    display.cpp
 
 HEADERS += \
     display.h \

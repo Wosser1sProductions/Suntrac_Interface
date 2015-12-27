@@ -45,3 +45,11 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+suntac_interface.pro.user
+Makefile
+*.exe
+debug/suntac_interface.ilk
+*.obj
+debug/suntac_interface.pdb
+suntac_interface.pro.user
+suntac_interface.pro.user.2e8f7ed
