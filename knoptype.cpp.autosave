@@ -1,0 +1,9 @@
+#include <iostream>
+#include <knop.h>
+using namespace std;
+
+knop::knop(int ID)
+    :ID(ID)
+{
+
+}
